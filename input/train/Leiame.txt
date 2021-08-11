@@ -1,2 +1,0 @@
-Apagar esse arquivo após o download
-essa pasta contem as imagens para treino do algoritmo
